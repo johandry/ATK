@@ -21,15 +21,15 @@ loop {
 		
 		cmd = session.gets.chomp
 		param = session.gets.chomp
-		logger.debug "Session [#{id}]: Request to execute command #{cmd} with parameter #{param}"
+		logger.debug "Session [#{id}]: Request to execute command '#{cmd}' with parameter '#{param}'"
 
 		command = commands.commands[cmd].full_command(param)
-		logger.debug "Session [#{id}]: Executing command #{command}"
+		logger.debug "Session [#{id}]: Executing command '#{command}'"
 		
 		results = commands.commands[cmd].execute(param)
 		session.puts "ATK: Command results: #{results}"
 		session.puts "ATK: End"
-		logger.debug "Session [#{id}]: Command results: #{results}"
+		logger.debug "Session [#{id}]: Command results: '#{results}'"
 
 		session.close		
 		logger.info "Session [#{id}]: Connection closed from #{session.peeraddr[2]} (#{session.peeraddr[3]})"

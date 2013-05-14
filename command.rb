@@ -13,7 +13,8 @@ class Command
 	end
 
 	def execute(*parameters)
-		system( self.full_command(parameters) )
+		command = @command.gsub(/\$\d/) { |p| parameters[(p[1].to_i) - 1]}
+		%x( #{command} )
 	end
 
 	def full_command(*parameters)

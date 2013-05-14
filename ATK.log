@@ -289,3 +289,29 @@ I, [2013-05-14T12:46:54.329845 #14192]  INFO -- : Command 'office' loaded
 I, [2013-05-14T12:46:54.329845 #14192]  INFO -- : Command 'se' loaded
 I, [2013-05-14T12:46:54.329845 #14192]  INFO -- : Command 'success' loaded
 I, [2013-05-14T12:46:54.329845 #14192]  INFO -- : Command 'terminate' loaded
+I, [2013-05-14T13:06:14.686845 #14584]  INFO -- : Loading the commands from ATK_Commands.csv
+I, [2013-05-14T13:06:14.687845 #14584]  INFO -- : Command 'fsj' loaded
+I, [2013-05-14T13:06:14.687845 #14584]  INFO -- : Command 'sj' loaded
+I, [2013-05-14T13:06:14.687845 #14584]  INFO -- : Command 'hold' loaded
+I, [2013-05-14T13:06:14.688845 #14584]  INFO -- : Command 'ice' loaded
+I, [2013-05-14T13:06:14.688845 #14584]  INFO -- : Command 'jd' loaded
+I, [2013-05-14T13:06:14.688845 #14584]  INFO -- : Command 'killjob' loaded
+I, [2013-05-14T13:06:14.688845 #14584]  INFO -- : Command 'offhold' loaded
+I, [2013-05-14T13:06:14.688845 #14584]  INFO -- : Command 'office' loaded
+I, [2013-05-14T13:06:14.688845 #14584]  INFO -- : Command 'se' loaded
+I, [2013-05-14T13:06:14.688845 #14584]  INFO -- : Command 'success' loaded
+I, [2013-05-14T13:06:14.688845 #14584]  INFO -- : Command 'terminate' loaded
+I, [2013-05-14T13:06:14.688845 #14584]  INFO -- : Command 'ar' loaded
+I, [2013-05-14T13:07:46.450845 #14584]  INFO -- : Loading the commands from ATK_Commands.csv
+I, [2013-05-14T13:07:46.451845 #14584]  INFO -- : Command 'fsj' loaded
+I, [2013-05-14T13:07:46.451845 #14584]  INFO -- : Command 'sj' loaded
+I, [2013-05-14T13:07:46.451845 #14584]  INFO -- : Command 'hold' loaded
+I, [2013-05-14T13:07:46.451845 #14584]  INFO -- : Command 'ice' loaded
+I, [2013-05-14T13:07:46.452845 #14584]  INFO -- : Command 'jd' loaded
+I, [2013-05-14T13:07:46.452845 #14584]  INFO -- : Command 'killjob' loaded
+I, [2013-05-14T13:07:46.452845 #14584]  INFO -- : Command 'offhold' loaded
+I, [2013-05-14T13:07:46.452845 #14584]  INFO -- : Command 'office' loaded
+I, [2013-05-14T13:07:46.452845 #14584]  INFO -- : Command 'se' loaded
+I, [2013-05-14T13:07:46.452845 #14584]  INFO -- : Command 'success' loaded
+I, [2013-05-14T13:07:46.452845 #14584]  INFO -- : Command 'terminate' loaded
+I, [2013-05-14T13:07:46.453845 #14584]  INFO -- : Command 'ar' loaded
