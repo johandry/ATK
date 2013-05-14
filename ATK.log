@@ -1,0 +1,291 @@
+# Logfile created on 2013-05-14 11:05:03 -0500 by logger.rb/36483
+I, [2013-05-14T11:05:08.363115 #11872]  INFO -- : Connection open from ::1 (::1)
+D, [2013-05-14T11:05:10.526466 #11872] DEBUG -- : Command = kjenkfrjenf
+
+I, [2013-05-14T11:05:10.527466 #11872]  INFO -- : Connection closed from ::1 (::1)
+I, [2013-05-14T11:06:50.317520 #11356]  INFO -- : Connection open from ::1 (::1)
+D, [2013-05-14T11:06:53.431585 #11356] DEBUG -- : Command = kjrwenfkwjnf
+
+I, [2013-05-14T11:06:53.432585 #11356]  INFO -- : Connection closed from ::1 (::1)
+I, [2013-05-14T11:51:46.056855 #5864]  INFO -- : Loading the commands from ATK_Commands.csv
+I, [2013-05-14T11:53:17.740855 #14288]  INFO -- : Loading the commands from ATK_Commands.csv
+I, [2013-05-14T11:53:17.741855 #14288]  INFO -- : Command  sendevent -E FORCE_STARTJOB -J $1 loaded
+I, [2013-05-14T11:53:17.741855 #14288]  INFO -- : Command  sendevent -E STARTJOB -J $1 loaded
+I, [2013-05-14T11:53:17.741855 #14288]  INFO -- : Command  sendevent -E JOB_ON_HOLD -J $1 loaded
+I, [2013-05-14T11:53:17.741855 #14288]  INFO -- : Command  sendevent -E JOB_ON_ICE -J $1 loaded
+I, [2013-05-14T11:53:17.741855 #14288]  INFO -- : Command  job_depends -c -w -J $1 loaded
+I, [2013-05-14T11:53:17.741855 #14288]  INFO -- : Command  sendevent -E KILLJOB -J $1 loaded
+I, [2013-05-14T11:53:17.742855 #14288]  INFO -- : Command  sendevent -E JOB_OFF_HOLD -J $1 loaded
+I, [2013-05-14T11:53:17.742855 #14288]  INFO -- : Command  sendevent -E JOB_OFF_ICE -J $1 loaded
+I, [2013-05-14T11:53:17.742855 #14288]  INFO -- : Command  sendevent -E $1 loaded
+I, [2013-05-14T11:53:17.742855 #14288]  INFO -- : Command  sendevent -E CHANGE_STATUS -s SUCCESS -J $1 loaded
+I, [2013-05-14T11:53:17.742855 #14288]  INFO -- : Command  sendevent -E CHANGE_STATUS -s TERMINATED -J $1 loaded
+I, [2013-05-14T11:53:48.518855 #9708]  INFO -- : Loading the commands from ATK_Commands.csv
+I, [2013-05-14T11:53:48.519855 #9708]  INFO -- : Command  sendevent -E FORCE_STARTJOB -J $1 loaded
+I, [2013-05-14T11:53:48.519855 #9708]  INFO -- : Command  sendevent -E STARTJOB -J $1 loaded
+I, [2013-05-14T11:53:48.519855 #9708]  INFO -- : Command  sendevent -E JOB_ON_HOLD -J $1 loaded
+I, [2013-05-14T11:53:48.519855 #9708]  INFO -- : Command  sendevent -E JOB_ON_ICE -J $1 loaded
+I, [2013-05-14T11:53:48.519855 #9708]  INFO -- : Command  job_depends -c -w -J $1 loaded
+I, [2013-05-14T11:53:48.519855 #9708]  INFO -- : Command  sendevent -E KILLJOB -J $1 loaded
+I, [2013-05-14T11:53:48.520855 #9708]  INFO -- : Command  sendevent -E JOB_OFF_HOLD -J $1 loaded
+I, [2013-05-14T11:53:48.520855 #9708]  INFO -- : Command  sendevent -E JOB_OFF_ICE -J $1 loaded
+I, [2013-05-14T11:53:48.520855 #9708]  INFO -- : Command  sendevent -E $1 loaded
+I, [2013-05-14T11:53:48.520855 #9708]  INFO -- : Command  sendevent -E CHANGE_STATUS -s SUCCESS -J $1 loaded
+I, [2013-05-14T11:53:48.520855 #9708]  INFO -- : Command  sendevent -E CHANGE_STATUS -s TERMINATED -J $1 loaded
+I, [2013-05-14T11:54:01.268855 #11812]  INFO -- : Loading the commands from ATK_Commands.csv
+I, [2013-05-14T11:54:01.269855 #11812]  INFO -- : Command fsj loaded
+I, [2013-05-14T11:54:01.269855 #11812]  INFO -- : Command sj loaded
+I, [2013-05-14T11:54:01.269855 #11812]  INFO -- : Command hold loaded
+I, [2013-05-14T11:54:01.269855 #11812]  INFO -- : Command ice loaded
+I, [2013-05-14T11:54:01.269855 #11812]  INFO -- : Command jd loaded
+I, [2013-05-14T11:54:01.269855 #11812]  INFO -- : Command killjob loaded
+I, [2013-05-14T11:54:01.270855 #11812]  INFO -- : Command offhold loaded
+I, [2013-05-14T11:54:01.270855 #11812]  INFO -- : Command office loaded
+I, [2013-05-14T11:54:01.270855 #11812]  INFO -- : Command se loaded
+I, [2013-05-14T11:54:01.270855 #11812]  INFO -- : Command success loaded
+I, [2013-05-14T11:54:01.270855 #11812]  INFO -- : Command terminate loaded
+I, [2013-05-14T11:54:27.452855 #11812]  INFO -- : Session [14051311542736]: Connection open from ::1 (::1)
+D, [2013-05-14T11:54:30.662855 #11812] DEBUG -- : Session [14051311542736]: Command = sj
+
+I, [2013-05-14T11:57:18.459855 #13204]  INFO -- : Loading the commands from ATK_Commands.csv
+I, [2013-05-14T11:57:18.460855 #13204]  INFO -- : Command 'fsj' loaded
+I, [2013-05-14T11:57:18.460855 #13204]  INFO -- : Command 'sj' loaded
+I, [2013-05-14T11:57:18.460855 #13204]  INFO -- : Command 'hold' loaded
+I, [2013-05-14T11:57:18.460855 #13204]  INFO -- : Command 'ice' loaded
+I, [2013-05-14T11:57:18.461855 #13204]  INFO -- : Command 'jd' loaded
+I, [2013-05-14T11:57:18.461855 #13204]  INFO -- : Command 'killjob' loaded
+I, [2013-05-14T11:57:18.461855 #13204]  INFO -- : Command 'offhold' loaded
+I, [2013-05-14T11:57:18.461855 #13204]  INFO -- : Command 'office' loaded
+I, [2013-05-14T11:57:18.461855 #13204]  INFO -- : Command 'se' loaded
+I, [2013-05-14T11:57:18.461855 #13204]  INFO -- : Command 'success' loaded
+I, [2013-05-14T11:57:18.461855 #13204]  INFO -- : Command 'terminate' loaded
+I, [2013-05-14T11:57:31.187855 #13204]  INFO -- : Session [14051311573150]: Connection open from ::1 (::1)
+D, [2013-05-14T11:57:42.888855 #13204] DEBUG -- : Session [14051311573150]: Request to execute command sj
+ with parameter aaa
+
+I, [2013-05-14T11:58:47.313855 #8984]  INFO -- : Loading the commands from ATK_Commands.csv
+I, [2013-05-14T11:58:47.314855 #8984]  INFO -- : Command 'fsj' loaded
+I, [2013-05-14T11:58:47.314855 #8984]  INFO -- : Command 'sj' loaded
+I, [2013-05-14T11:58:47.314855 #8984]  INFO -- : Command 'hold' loaded
+I, [2013-05-14T11:58:47.314855 #8984]  INFO -- : Command 'ice' loaded
+I, [2013-05-14T11:58:47.314855 #8984]  INFO -- : Command 'jd' loaded
+I, [2013-05-14T11:58:47.315855 #8984]  INFO -- : Command 'killjob' loaded
+I, [2013-05-14T11:58:47.315855 #8984]  INFO -- : Command 'offhold' loaded
+I, [2013-05-14T11:58:47.315855 #8984]  INFO -- : Command 'office' loaded
+I, [2013-05-14T11:58:47.315855 #8984]  INFO -- : Command 'se' loaded
+I, [2013-05-14T11:58:47.315855 #8984]  INFO -- : Command 'success' loaded
+I, [2013-05-14T11:58:47.315855 #8984]  INFO -- : Command 'terminate' loaded
+I, [2013-05-14T11:59:06.366855 #7840]  INFO -- : Loading the commands from ATK_Commands.csv
+I, [2013-05-14T11:59:06.367855 #7840]  INFO -- : Command 'fsj' loaded
+I, [2013-05-14T11:59:06.367855 #7840]  INFO -- : Command 'sj' loaded
+I, [2013-05-14T11:59:06.367855 #7840]  INFO -- : Command 'hold' loaded
+I, [2013-05-14T11:59:06.367855 #7840]  INFO -- : Command 'ice' loaded
+I, [2013-05-14T11:59:06.367855 #7840]  INFO -- : Command 'jd' loaded
+I, [2013-05-14T11:59:06.368855 #7840]  INFO -- : Command 'killjob' loaded
+I, [2013-05-14T11:59:06.368855 #7840]  INFO -- : Command 'offhold' loaded
+I, [2013-05-14T11:59:06.368855 #7840]  INFO -- : Command 'office' loaded
+I, [2013-05-14T11:59:06.368855 #7840]  INFO -- : Command 'se' loaded
+I, [2013-05-14T11:59:06.368855 #7840]  INFO -- : Command 'success' loaded
+I, [2013-05-14T11:59:06.368855 #7840]  INFO -- : Command 'terminate' loaded
+I, [2013-05-14T12:02:58.818855 #8928]  INFO -- : Loading the commands from ATK_Commands.csv
+I, [2013-05-14T12:02:58.819855 #8928]  INFO -- : Command 'fsj' loaded
+I, [2013-05-14T12:02:58.819855 #8928]  INFO -- : Command 'sj' loaded
+I, [2013-05-14T12:02:58.819855 #8928]  INFO -- : Command 'hold' loaded
+I, [2013-05-14T12:02:58.819855 #8928]  INFO -- : Command 'ice' loaded
+I, [2013-05-14T12:02:58.820855 #8928]  INFO -- : Command 'jd' loaded
+I, [2013-05-14T12:02:58.820855 #8928]  INFO -- : Command 'killjob' loaded
+I, [2013-05-14T12:02:58.820855 #8928]  INFO -- : Command 'offhold' loaded
+I, [2013-05-14T12:02:58.820855 #8928]  INFO -- : Command 'office' loaded
+I, [2013-05-14T12:02:58.820855 #8928]  INFO -- : Command 'se' loaded
+I, [2013-05-14T12:02:58.820855 #8928]  INFO -- : Command 'success' loaded
+I, [2013-05-14T12:02:58.820855 #8928]  INFO -- : Command 'terminate' loaded
+I, [2013-05-14T12:05:05.850855 #11572]  INFO -- : Loading the commands from ATK_Commands.csv
+I, [2013-05-14T12:05:05.850855 #11572]  INFO -- : Command 'fsj' loaded
+I, [2013-05-14T12:05:05.851855 #11572]  INFO -- : Command 'sj' loaded
+I, [2013-05-14T12:05:05.851855 #11572]  INFO -- : Command 'hold' loaded
+I, [2013-05-14T12:05:05.851855 #11572]  INFO -- : Command 'ice' loaded
+I, [2013-05-14T12:05:05.851855 #11572]  INFO -- : Command 'jd' loaded
+I, [2013-05-14T12:05:05.851855 #11572]  INFO -- : Command 'killjob' loaded
+I, [2013-05-14T12:05:05.851855 #11572]  INFO -- : Command 'offhold' loaded
+I, [2013-05-14T12:05:05.852855 #11572]  INFO -- : Command 'office' loaded
+I, [2013-05-14T12:05:05.852855 #11572]  INFO -- : Command 'se' loaded
+I, [2013-05-14T12:05:05.852855 #11572]  INFO -- : Command 'success' loaded
+I, [2013-05-14T12:05:05.852855 #11572]  INFO -- : Command 'terminate' loaded
+I, [2013-05-14T12:05:44.754855 #15112]  INFO -- : Loading the commands from ATK_Commands.csv
+I, [2013-05-14T12:05:44.754855 #15112]  INFO -- : Command 'fsj' loaded
+I, [2013-05-14T12:05:44.754855 #15112]  INFO -- : Command 'sj' loaded
+I, [2013-05-14T12:05:44.755855 #15112]  INFO -- : Command 'hold' loaded
+I, [2013-05-14T12:05:44.755855 #15112]  INFO -- : Command 'ice' loaded
+I, [2013-05-14T12:05:44.755855 #15112]  INFO -- : Command 'jd' loaded
+I, [2013-05-14T12:05:44.755855 #15112]  INFO -- : Command 'killjob' loaded
+I, [2013-05-14T12:05:44.755855 #15112]  INFO -- : Command 'offhold' loaded
+I, [2013-05-14T12:05:44.755855 #15112]  INFO -- : Command 'office' loaded
+I, [2013-05-14T12:05:44.755855 #15112]  INFO -- : Command 'se' loaded
+I, [2013-05-14T12:05:44.755855 #15112]  INFO -- : Command 'success' loaded
+I, [2013-05-14T12:05:44.756855 #15112]  INFO -- : Command 'terminate' loaded
+I, [2013-05-14T12:05:48.902855 #15112]  INFO -- : Session [14051312054814]: Connection open from ::1 (::1)
+D, [2013-05-14T12:06:08.530855 #15112] DEBUG -- : Session [14051312054814]: Request to execute command sj
+ with parameter asas
+
+D, [2013-05-14T12:06:08.530855 #15112] DEBUG -- : Session [14051312054814]: Executing command  sendevent -E STARTJOB -J $1
+D, [2013-05-14T12:06:08.530855 #15112] DEBUG -- : Session [14051312054814]: Command results:
+I, [2013-05-14T12:06:47.739855 #9092]  INFO -- : Loading the commands from ATK_Commands.csv
+I, [2013-05-14T12:06:47.739855 #9092]  INFO -- : Command 'fsj' loaded
+I, [2013-05-14T12:06:47.740855 #9092]  INFO -- : Command 'sj' loaded
+I, [2013-05-14T12:06:47.740855 #9092]  INFO -- : Command 'hold' loaded
+I, [2013-05-14T12:06:47.740855 #9092]  INFO -- : Command 'ice' loaded
+I, [2013-05-14T12:06:47.740855 #9092]  INFO -- : Command 'jd' loaded
+I, [2013-05-14T12:06:47.740855 #9092]  INFO -- : Command 'killjob' loaded
+I, [2013-05-14T12:06:47.741855 #9092]  INFO -- : Command 'offhold' loaded
+I, [2013-05-14T12:06:47.741855 #9092]  INFO -- : Command 'office' loaded
+I, [2013-05-14T12:06:47.741855 #9092]  INFO -- : Command 'se' loaded
+I, [2013-05-14T12:06:47.741855 #9092]  INFO -- : Command 'success' loaded
+I, [2013-05-14T12:06:47.741855 #9092]  INFO -- : Command 'terminate' loaded
+I, [2013-05-14T12:06:50.917855 #9092]  INFO -- : Session [14051312065090]: Connection open from ::1 (::1)
+D, [2013-05-14T12:06:59.684855 #9092] DEBUG -- : Session [14051312065090]: Request to execute command sj
+ with parameter aaaa
+
+I, [2013-05-14T12:07:20.817855 #10348]  INFO -- : Loading the commands from ATK_Commands.csv
+I, [2013-05-14T12:07:20.818855 #10348]  INFO -- : Command 'fsj' loaded
+I, [2013-05-14T12:07:20.818855 #10348]  INFO -- : Command 'sj' loaded
+I, [2013-05-14T12:07:20.818855 #10348]  INFO -- : Command 'hold' loaded
+I, [2013-05-14T12:07:20.818855 #10348]  INFO -- : Command 'ice' loaded
+I, [2013-05-14T12:07:20.818855 #10348]  INFO -- : Command 'jd' loaded
+I, [2013-05-14T12:07:20.819855 #10348]  INFO -- : Command 'killjob' loaded
+I, [2013-05-14T12:07:20.819855 #10348]  INFO -- : Command 'offhold' loaded
+I, [2013-05-14T12:07:20.819855 #10348]  INFO -- : Command 'office' loaded
+I, [2013-05-14T12:07:20.819855 #10348]  INFO -- : Command 'se' loaded
+I, [2013-05-14T12:07:20.819855 #10348]  INFO -- : Command 'success' loaded
+I, [2013-05-14T12:07:20.819855 #10348]  INFO -- : Command 'terminate' loaded
+I, [2013-05-14T12:07:31.138855 #10348]  INFO -- : Session [14051312073143]: Connection open from ::1 (::1)
+D, [2013-05-14T12:07:37.610855 #10348] DEBUG -- : Session [14051312073143]: Request to execute command aaa
+ with parameter 
+
+I, [2013-05-14T12:07:49.428855 #10348]  INFO -- : Session [14051312074918]: Connection open from ::1 (::1)
+D, [2013-05-14T12:07:56.173855 #10348] DEBUG -- : Session [14051312074918]: Request to execute command sj
+ with parameter aaaaa
+
+I, [2013-05-14T12:09:38.711855 #15064]  INFO -- : Loading the commands from ATK_Commands.csv
+I, [2013-05-14T12:09:38.712855 #15064]  INFO -- : Command 'fsj' loaded
+I, [2013-05-14T12:09:38.712855 #15064]  INFO -- : Command 'sj' loaded
+I, [2013-05-14T12:09:38.712855 #15064]  INFO -- : Command 'hold' loaded
+I, [2013-05-14T12:09:38.712855 #15064]  INFO -- : Command 'ice' loaded
+I, [2013-05-14T12:09:38.712855 #15064]  INFO -- : Command 'jd' loaded
+I, [2013-05-14T12:09:38.712855 #15064]  INFO -- : Command 'killjob' loaded
+I, [2013-05-14T12:09:38.712855 #15064]  INFO -- : Command 'offhold' loaded
+I, [2013-05-14T12:09:38.713855 #15064]  INFO -- : Command 'office' loaded
+I, [2013-05-14T12:09:38.713855 #15064]  INFO -- : Command 'se' loaded
+I, [2013-05-14T12:09:38.713855 #15064]  INFO -- : Command 'success' loaded
+I, [2013-05-14T12:09:38.713855 #15064]  INFO -- : Command 'terminate' loaded
+I, [2013-05-14T12:09:53.701855 #15064]  INFO -- : Session [14051312095319]: Connection open from ::1 (::1)
+D, [2013-05-14T12:09:59.543855 #15064] DEBUG -- : Session [14051312095319]: Request to execute command sj
+ with parameter qqqq
+
+I, [2013-05-14T12:10:36.433855 #15328]  INFO -- : Loading the commands from ATK_Commands.csv
+I, [2013-05-14T12:10:36.434855 #15328]  INFO -- : Command 'fsj' loaded
+I, [2013-05-14T12:10:36.434855 #15328]  INFO -- : Command 'sj' loaded
+I, [2013-05-14T12:10:36.434855 #15328]  INFO -- : Command 'hold' loaded
+I, [2013-05-14T12:10:36.434855 #15328]  INFO -- : Command 'ice' loaded
+I, [2013-05-14T12:10:36.434855 #15328]  INFO -- : Command 'jd' loaded
+I, [2013-05-14T12:10:36.434855 #15328]  INFO -- : Command 'killjob' loaded
+I, [2013-05-14T12:10:36.435855 #15328]  INFO -- : Command 'offhold' loaded
+I, [2013-05-14T12:10:36.435855 #15328]  INFO -- : Command 'office' loaded
+I, [2013-05-14T12:10:36.435855 #15328]  INFO -- : Command 'se' loaded
+I, [2013-05-14T12:10:36.435855 #15328]  INFO -- : Command 'success' loaded
+I, [2013-05-14T12:10:36.435855 #15328]  INFO -- : Command 'terminate' loaded
+I, [2013-05-14T12:10:46.031855 #15328]  INFO -- : Session [14051312104611]: Connection open from ::1 (::1)
+D, [2013-05-14T12:10:50.353855 #15328] DEBUG -- : Session [14051312104611]: Request to execute command sj with parameter aaaa
+D, [2013-05-14T12:10:50.354855 #15328] DEBUG -- : Session [14051312104611]: Executing command  sendevent -E STARTJOB -J $1
+D, [2013-05-14T12:10:50.354855 #15328] DEBUG -- : Session [14051312104611]: Command results:
+I, [2013-05-14T12:35:02.382880 #9448]  INFO -- : Loading the commands from ATK_Commands.csv
+I, [2013-05-14T12:35:02.382880 #9448]  INFO -- : Command 'fsj' loaded
+I, [2013-05-14T12:35:02.382880 #9448]  INFO -- : Command 'sj' loaded
+I, [2013-05-14T12:35:02.382880 #9448]  INFO -- : Command 'hold' loaded
+I, [2013-05-14T12:35:02.383880 #9448]  INFO -- : Command 'ice' loaded
+I, [2013-05-14T12:35:02.383880 #9448]  INFO -- : Command 'jd' loaded
+I, [2013-05-14T12:35:02.383880 #9448]  INFO -- : Command 'killjob' loaded
+I, [2013-05-14T12:35:02.383880 #9448]  INFO -- : Command 'offhold' loaded
+I, [2013-05-14T12:35:02.383880 #9448]  INFO -- : Command 'office' loaded
+I, [2013-05-14T12:35:02.383880 #9448]  INFO -- : Command 'se' loaded
+I, [2013-05-14T12:35:02.383880 #9448]  INFO -- : Command 'success' loaded
+I, [2013-05-14T12:35:02.383880 #9448]  INFO -- : Command 'terminate' loaded
+I, [2013-05-14T12:35:06.480290 #9448]  INFO -- : Session [14051312350662]: Connection open from ::1 (::1)
+D, [2013-05-14T12:35:11.526794 #9448] DEBUG -- : Session [14051312350662]: Request to execute command sj with parameter QQQ
+D, [2013-05-14T12:35:11.526794 #9448] DEBUG -- : Session [14051312350662]: Executing command  sendevent -E STARTJOB -J $1
+D, [2013-05-14T12:35:11.526794 #9448] DEBUG -- : Session [14051312350662]: Command results:
+I, [2013-05-14T12:38:48.023845 #14324]  INFO -- : Loading the commands from ATK_Commands.csv
+I, [2013-05-14T12:38:48.023845 #14324]  INFO -- : Command 'fsj' loaded
+I, [2013-05-14T12:38:48.023845 #14324]  INFO -- : Command 'sj' loaded
+I, [2013-05-14T12:38:48.024845 #14324]  INFO -- : Command 'hold' loaded
+I, [2013-05-14T12:38:48.024845 #14324]  INFO -- : Command 'ice' loaded
+I, [2013-05-14T12:38:48.024845 #14324]  INFO -- : Command 'jd' loaded
+I, [2013-05-14T12:38:48.024845 #14324]  INFO -- : Command 'killjob' loaded
+I, [2013-05-14T12:38:48.024845 #14324]  INFO -- : Command 'offhold' loaded
+I, [2013-05-14T12:38:48.024845 #14324]  INFO -- : Command 'office' loaded
+I, [2013-05-14T12:38:48.024845 #14324]  INFO -- : Command 'se' loaded
+I, [2013-05-14T12:38:48.024845 #14324]  INFO -- : Command 'success' loaded
+I, [2013-05-14T12:38:48.024845 #14324]  INFO -- : Command 'terminate' loaded
+I, [2013-05-14T12:38:58.668845 #14324]  INFO -- : Session [14051312385890]: Connection open from ::1 (::1)
+D, [2013-05-14T12:39:03.577845 #14324] DEBUG -- : Session [14051312385890]: Request to execute command sj with parameter AAAA
+D, [2013-05-14T12:39:03.577845 #14324] DEBUG -- : Session [14051312385890]: Executing command  sendevent -E STARTJOB -J $1
+D, [2013-05-14T12:39:03.577845 #14324] DEBUG -- : Session [14051312385890]: Command results:
+I, [2013-05-14T12:40:33.467845 #7892]  INFO -- : Loading the commands from ATK_Commands.csv
+I, [2013-05-14T12:40:33.468845 #7892]  INFO -- : Command 'fsj' loaded
+I, [2013-05-14T12:40:33.468845 #7892]  INFO -- : Command 'sj' loaded
+I, [2013-05-14T12:40:33.468845 #7892]  INFO -- : Command 'hold' loaded
+I, [2013-05-14T12:40:33.468845 #7892]  INFO -- : Command 'ice' loaded
+I, [2013-05-14T12:40:33.468845 #7892]  INFO -- : Command 'jd' loaded
+I, [2013-05-14T12:40:33.468845 #7892]  INFO -- : Command 'killjob' loaded
+I, [2013-05-14T12:40:33.469845 #7892]  INFO -- : Command 'offhold' loaded
+I, [2013-05-14T12:40:33.469845 #7892]  INFO -- : Command 'office' loaded
+I, [2013-05-14T12:40:33.469845 #7892]  INFO -- : Command 'se' loaded
+I, [2013-05-14T12:40:33.469845 #7892]  INFO -- : Command 'success' loaded
+I, [2013-05-14T12:40:33.469845 #7892]  INFO -- : Command 'terminate' loaded
+I, [2013-05-14T12:40:40.574845 #7892]  INFO -- : Session [14051312404050]: Connection open from ::1 (::1)
+D, [2013-05-14T12:40:46.442845 #7892] DEBUG -- : Session [14051312404050]: Request to execute command sj with parameter AAAAA
+D, [2013-05-14T12:40:46.442845 #7892] DEBUG -- : Session [14051312404050]: Executing command  sendevent -E STARTJOB -J AAAAA
+D, [2013-05-14T12:40:46.443845 #7892] DEBUG -- : Session [14051312404050]: Command results:
+I, [2013-05-14T12:44:22.326845 #8500]  INFO -- : Loading the commands from ATK_Commands.csv
+I, [2013-05-14T12:44:22.327845 #8500]  INFO -- : Command 'fsj' loaded
+I, [2013-05-14T12:44:22.327845 #8500]  INFO -- : Command 'sj' loaded
+I, [2013-05-14T12:44:22.327845 #8500]  INFO -- : Command 'hold' loaded
+I, [2013-05-14T12:44:22.327845 #8500]  INFO -- : Command 'ice' loaded
+I, [2013-05-14T12:44:22.327845 #8500]  INFO -- : Command 'jd' loaded
+I, [2013-05-14T12:44:22.327845 #8500]  INFO -- : Command 'killjob' loaded
+I, [2013-05-14T12:44:22.328845 #8500]  INFO -- : Command 'offhold' loaded
+I, [2013-05-14T12:44:22.328845 #8500]  INFO -- : Command 'office' loaded
+I, [2013-05-14T12:44:22.328845 #8500]  INFO -- : Command 'se' loaded
+I, [2013-05-14T12:44:22.328845 #8500]  INFO -- : Command 'success' loaded
+I, [2013-05-14T12:44:22.328845 #8500]  INFO -- : Command 'terminate' loaded
+I, [2013-05-14T12:44:25.175845 #8500]  INFO -- : Session [14051312442516]: Connection open from ::1 (::1)
+D, [2013-05-14T12:44:32.487845 #8500] DEBUG -- : Session [14051312442516]: Request to execute command sj with parameter AAAAA
+D, [2013-05-14T12:44:32.497845 #8500] DEBUG -- : Session [14051312442516]: Executing command 
+D, [2013-05-14T12:44:32.497845 #8500] DEBUG -- : Session [14051312442516]: Command results:
+I, [2013-05-14T12:45:50.289845 #12584]  INFO -- : Loading the commands from ATK_Commands.csv
+I, [2013-05-14T12:45:50.290845 #12584]  INFO -- : Command 'fsj' loaded
+I, [2013-05-14T12:45:50.290845 #12584]  INFO -- : Command 'sj' loaded
+I, [2013-05-14T12:45:50.290845 #12584]  INFO -- : Command 'hold' loaded
+I, [2013-05-14T12:45:50.290845 #12584]  INFO -- : Command 'ice' loaded
+I, [2013-05-14T12:45:50.290845 #12584]  INFO -- : Command 'jd' loaded
+I, [2013-05-14T12:45:50.291845 #12584]  INFO -- : Command 'killjob' loaded
+I, [2013-05-14T12:45:50.291845 #12584]  INFO -- : Command 'offhold' loaded
+I, [2013-05-14T12:45:50.291845 #12584]  INFO -- : Command 'office' loaded
+I, [2013-05-14T12:45:50.291845 #12584]  INFO -- : Command 'se' loaded
+I, [2013-05-14T12:45:50.291845 #12584]  INFO -- : Command 'success' loaded
+I, [2013-05-14T12:45:50.291845 #12584]  INFO -- : Command 'terminate' loaded
+I, [2013-05-14T12:45:57.997845 #12584]  INFO -- : Session [14051312455762]: Connection open from ::1 (::1)
+D, [2013-05-14T12:46:04.055845 #12584] DEBUG -- : Session [14051312455762]: Request to execute command sj with parameter AAAAAA
+D, [2013-05-14T12:46:04.056845 #12584] DEBUG -- : Session [14051312455762]: Executing command  sendevent -E STARTJOB -J AAAAAA
+D, [2013-05-14T12:46:04.064845 #12584] DEBUG -- : Session [14051312455762]: Command results: 
+I, [2013-05-14T12:46:54.327845 #14192]  INFO -- : Loading the commands from ATK_Commands.csv
+I, [2013-05-14T12:46:54.328845 #14192]  INFO -- : Command 'fsj' loaded
+I, [2013-05-14T12:46:54.328845 #14192]  INFO -- : Command 'sj' loaded
+I, [2013-05-14T12:46:54.328845 #14192]  INFO -- : Command 'hold' loaded
+I, [2013-05-14T12:46:54.328845 #14192]  INFO -- : Command 'ice' loaded
+I, [2013-05-14T12:46:54.329845 #14192]  INFO -- : Command 'jd' loaded
+I, [2013-05-14T12:46:54.329845 #14192]  INFO -- : Command 'killjob' loaded
+I, [2013-05-14T12:46:54.329845 #14192]  INFO -- : Command 'offhold' loaded
+I, [2013-05-14T12:46:54.329845 #14192]  INFO -- : Command 'office' loaded
+I, [2013-05-14T12:46:54.329845 #14192]  INFO -- : Command 'se' loaded
+I, [2013-05-14T12:46:54.329845 #14192]  INFO -- : Command 'success' loaded
+I, [2013-05-14T12:46:54.329845 #14192]  INFO -- : Command 'terminate' loaded
