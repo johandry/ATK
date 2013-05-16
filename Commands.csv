@@ -1,0 +1,17 @@
+Client Command, Server Command, Parameters Type, Name, Description 
+RJJ,autorep -q -J $1,Job,Get Job JIL Definition,"Command to get the Job or Box definition in JIL format. Expect a valid job or box name, the willcard (%) can be used. 
+If a Box is entered as parameter the response will be the definition of the box and their jobs."
+RJD,job_depends -c -w -J $1,Job,Get Job Dependencies,"Command to get a Job or Box dependencies. Expect a valid job or box name, the willcard (%) can be used."
+FSJ,sendevent -E FORCE_STARTJOB -J $1,Job,Force Start,Command to force to start a job. Used when a regular start does not work.
+SJ,sendevent -E STARTJOB -J $1,Job,Start,Command to start the execution of a Job
+KJ,sendevent -E KILLJOB -J $1,Job,Kill,Command to send a KILL event to a job.
+OH,sendevent -E JOB_ON_HOLD -J $1,Job,Put On Hold,"Command to send an event to the job to change status of a job to ON-HOLD. Expect a valid job name in the parameters.
+The job will not run until it receives the OFF-HOLD event."
+OI,sendevent -E JOB_ON_ICE -J $1,Job,Put On Ice,"Command to send an event to the job to change status of a job to ON_ICE. Expect a valid job name in the parameters.
+The job is removed from all conditions and logic, but is still defined to AutoSys. Operationally, this condition is like deactivating the job. It will remain on ice until it receives the JOB_OFF_ICE event."
+OFH,sendevent -E JOB_OFF_HOLD -J $1,Job,Put Off Hold,Off Hold
+OFI,sendevent -E JOB_OFF_ICE -J $1,Job,Put Off Ice,Off Ice
+SU,sendevent -E CHANGE_STATUS -s SUCCESS -J $1,Job,Success,"Command to send an event to the job to change status of a job to SUCCESS. Expect a valid job name in the parameters.
+The job exited with an exit code equal to or less than the ""maximum exit code for success."" By default, only the exit code""0"" is interpreted as ""success."" If the job is a box job, this value means that all the jobs within the box have finished with the status SUCCESS (the default), or the ""Exit Condition for Box Success"" evaluated to true"
+TE,sendevent -E CHANGE_STATUS -s TERMINATED -J $1,Job,Terminate,"Command to send an event to the job to change status of a job to TERMINATE. Expect a valid job name in the parameters.
+The job terminated while in the RUNNING state. A job can be terminated if a user sends a KILLJOB event or if it was defined to terminate if the box it is in failed. If the job itself fails, it has a FAILURE status, not a TERMINATED status. A job may also be terminated if it has exceeded the maximum run time (term_run_time attribute, if one was specified for the job), or if it was killed from the command line. AutoSys issues an alarm if a job is terminated."

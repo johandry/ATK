@@ -315,3 +315,77 @@ I, [2013-05-14T13:07:46.452845 #14584]  INFO -- : Command 'se' loaded
 I, [2013-05-14T13:07:46.452845 #14584]  INFO -- : Command 'success' loaded
 I, [2013-05-14T13:07:46.452845 #14584]  INFO -- : Command 'terminate' loaded
 I, [2013-05-14T13:07:46.453845 #14584]  INFO -- : Command 'ar' loaded
+I, [2013-05-14T22:39:33.014052 #8392]  INFO -- : Loading the commands from ATK_Commands.csv
+I, [2013-05-14T22:39:33.027053 #8392]  INFO -- : Command 'fsj' loaded
+I, [2013-05-14T22:39:33.027053 #8392]  INFO -- : Command 'sj' loaded
+I, [2013-05-14T22:39:33.027053 #8392]  INFO -- : Command 'hold' loaded
+I, [2013-05-14T22:39:33.028053 #8392]  INFO -- : Command 'ice' loaded
+I, [2013-05-14T22:39:33.028053 #8392]  INFO -- : Command 'jd' loaded
+I, [2013-05-14T22:39:33.028053 #8392]  INFO -- : Command 'killjob' loaded
+I, [2013-05-14T22:39:33.028053 #8392]  INFO -- : Command 'offhold' loaded
+I, [2013-05-14T22:39:33.028053 #8392]  INFO -- : Command 'office' loaded
+I, [2013-05-14T22:39:33.029053 #8392]  INFO -- : Command 'se' loaded
+I, [2013-05-14T22:39:33.029053 #8392]  INFO -- : Command 'success' loaded
+I, [2013-05-14T22:39:33.029053 #8392]  INFO -- : Command 'terminate' loaded
+I, [2013-05-14T22:39:33.029053 #8392]  INFO -- : Command 'ar' loaded
+I, [2013-05-15T11:04:32.399711 #7352]  INFO -- : Loading the commands from ATK_Commands.csv
+I, [2013-05-15T11:04:32.429713 #7352]  INFO -- : Command 'fsj' loaded
+I, [2013-05-15T11:04:32.429713 #7352]  INFO -- : Command 'sj' loaded
+I, [2013-05-15T11:04:32.429713 #7352]  INFO -- : Command 'hold' loaded
+I, [2013-05-15T11:04:32.429713 #7352]  INFO -- : Command 'ice' loaded
+I, [2013-05-15T11:04:32.429713 #7352]  INFO -- : Command 'jd' loaded
+I, [2013-05-15T11:04:32.429713 #7352]  INFO -- : Command 'killjob' loaded
+I, [2013-05-15T11:04:32.430713 #7352]  INFO -- : Command 'offhold' loaded
+I, [2013-05-15T11:04:32.430713 #7352]  INFO -- : Command 'office' loaded
+I, [2013-05-15T11:04:32.430713 #7352]  INFO -- : Command 'se' loaded
+I, [2013-05-15T11:04:32.430713 #7352]  INFO -- : Command 'success' loaded
+I, [2013-05-15T11:04:32.430713 #7352]  INFO -- : Command 'terminate' loaded
+I, [2013-05-15T11:04:32.430713 #7352]  INFO -- : Command 'ar' loaded
+I, [2013-05-15T21:48:59.867364 #7344]  INFO -- : Loading the commands from ATK_Commands.csv
+I, [2013-05-15T21:51:27.895830 #5240]  INFO -- : Loading the commands from ../Commands.csv
+I, [2013-05-15T21:51:27.896831 #5240]  INFO -- : Command 'Client Command' loaded
+I, [2013-05-15T21:51:27.896831 #5240]  INFO -- : Command 'RJJ' loaded
+I, [2013-05-15T21:51:27.896831 #5240]  INFO -- : Command 'RJD' loaded
+I, [2013-05-15T21:51:27.896831 #5240]  INFO -- : Command 'FSJ' loaded
+I, [2013-05-15T21:51:27.897831 #5240]  INFO -- : Command 'SJ' loaded
+I, [2013-05-15T21:51:27.897831 #5240]  INFO -- : Command 'KJ' loaded
+I, [2013-05-15T21:51:27.897831 #5240]  INFO -- : Command 'OH' loaded
+I, [2013-05-15T21:51:27.897831 #5240]  INFO -- : Command 'OI' loaded
+I, [2013-05-15T21:51:27.897831 #5240]  INFO -- : Command 'OFH' loaded
+I, [2013-05-15T21:51:27.897831 #5240]  INFO -- : Command 'OFI' loaded
+I, [2013-05-15T21:51:27.897831 #5240]  INFO -- : Command 'SU' loaded
+I, [2013-05-15T21:51:27.898831 #5240]  INFO -- : Command 'TE' loaded
+I, [2013-05-15T22:07:05.207442 #4244]  INFO -- : Loading the commands from ../Commands.csv
+I, [2013-05-15T22:07:05.207442 #4244]  INFO -- : Command 'Client Command' loaded
+I, [2013-05-15T22:07:05.208442 #4244]  INFO -- : Command 'RJJ' loaded
+I, [2013-05-15T22:07:05.208442 #4244]  INFO -- : Command 'RJD' loaded
+I, [2013-05-15T22:07:05.208442 #4244]  INFO -- : Command 'FSJ' loaded
+I, [2013-05-15T22:07:05.208442 #4244]  INFO -- : Command 'SJ' loaded
+I, [2013-05-15T22:07:05.208442 #4244]  INFO -- : Command 'KJ' loaded
+I, [2013-05-15T22:07:05.208442 #4244]  INFO -- : Command 'OH' loaded
+I, [2013-05-15T22:07:05.209442 #4244]  INFO -- : Command 'OI' loaded
+I, [2013-05-15T22:07:05.209442 #4244]  INFO -- : Command 'OFH' loaded
+I, [2013-05-15T22:07:05.209442 #4244]  INFO -- : Command 'OFI' loaded
+I, [2013-05-15T22:07:05.209442 #4244]  INFO -- : Command 'SU' loaded
+I, [2013-05-15T22:07:05.209442 #4244]  INFO -- : Command 'TE' loaded
+I, [2013-05-15T22:07:06.384509 #4244]  INFO -- : Session [15051322070630]: Connection open from ::1 (::1)
+D, [2013-05-15T22:07:15.568034 #4244] DEBUG -- : Session [15051322070630]: Request to execute command 'AR' with parameter 'AAAA'
+I, [2013-05-15T22:07:57.597438 #9756]  INFO -- : Loading the commands from ../Commands.csv
+I, [2013-05-15T22:07:57.597438 #9756]  INFO -- : Command 'Client Command' loaded
+I, [2013-05-15T22:07:57.597438 #9756]  INFO -- : Command 'RJJ' loaded
+I, [2013-05-15T22:07:57.598438 #9756]  INFO -- : Command 'RJD' loaded
+I, [2013-05-15T22:07:57.598438 #9756]  INFO -- : Command 'FSJ' loaded
+I, [2013-05-15T22:07:57.598438 #9756]  INFO -- : Command 'SJ' loaded
+I, [2013-05-15T22:07:57.598438 #9756]  INFO -- : Command 'KJ' loaded
+I, [2013-05-15T22:07:57.598438 #9756]  INFO -- : Command 'OH' loaded
+I, [2013-05-15T22:07:57.598438 #9756]  INFO -- : Command 'OI' loaded
+I, [2013-05-15T22:07:57.598438 #9756]  INFO -- : Command 'OFH' loaded
+I, [2013-05-15T22:07:57.599438 #9756]  INFO -- : Command 'OFI' loaded
+I, [2013-05-15T22:07:57.599438 #9756]  INFO -- : Command 'SU' loaded
+I, [2013-05-15T22:07:57.599438 #9756]  INFO -- : Command 'TE' loaded
+I, [2013-05-15T22:46:40.211284 #9756]  INFO -- : Session [15051322464028]: Connection open from ::1 (::1)
+D, [2013-05-15T22:46:40.222285 #9756] DEBUG -- : Session [15051322464028]: Request to execute command 'RJJ' with parameter 'AAA'
+D, [2013-05-15T22:46:40.222285 #9756] DEBUG -- : Session [15051322464028]: Executing command 'autorep -q -J AAA'
+I, [2013-05-15T22:48:55.559026 #9756]  INFO -- : Session [15051322485596]: Connection open from ::1 (::1)
+D, [2013-05-15T22:48:55.559026 #9756] DEBUG -- : Session [15051322485596]: Request to execute command 'RJJ' with parameter 'BBBBB'
+D, [2013-05-15T22:48:55.559026 #9756] DEBUG -- : Session [15051322485596]: Executing command 'autorep -q -J BBBBB'

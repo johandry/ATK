@@ -1,15 +1,15 @@
 class Command
-	attr_accessor :name, :command, :description
+	attr_accessor :name, :command, :parameters, :description
 
 	def initialize (name, command, description)
 		@name		= name
 		@command 	= command
+		@parameters = parameters
 		@param_count= command.count "$"
 		@description= description
 	end
 
 	def validate(*parameters)
-
 	end
 
 	def execute(*parameters)

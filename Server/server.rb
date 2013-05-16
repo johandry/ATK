@@ -9,7 +9,7 @@ require 'date'
 
 logger   = Logger.new('ATK.log', 'weekly')
 randomer = Random.new
-commands = Commands.new('ATK_Commands.csv', logger)
+commands = Commands.new('../Commands.csv', logger)
 
 server = TCPServer.new(3001)
 puts "ATK Server is listening on port 3001"
